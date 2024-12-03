@@ -22,10 +22,11 @@ YU-NotebookService : 영남대학교 노트북 대여 웹 서비스
 - **Back-End** : 서호영, 서효진, 이재홍
 
 ### 🛠️Tech Stack
-- **Frontend**: <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-- **Backend**: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+- **Frontend**: <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+- **Backend**: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Java-4479A1?style=flat"/>
 - **Database**: <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 - **Deployment**: <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
+- **Communication** : <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 
 ## 💻Deployment
 ### 배포 주소 : http://15.164.244.239
