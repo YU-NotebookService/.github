@@ -37,3 +37,7 @@ YU-NotebookService : 영남대학교 노트북 대여 웹 서비스
 
 ## 🌟Features
 ### 자세한 기능 설명 및 사용법은 NS-web Repository를 참고해주세요!
+
+
+![화면 기록 2024-12-07 오전 12 39 49](https://github.com/user-attachments/assets/a59a091c-9d12-429d-aeb2-9deaf8e4f049)
+
