@@ -41,5 +41,5 @@ YU-NotebookService : 영남대학교 노트북 대여 웹 서비스
 
 #### 관리자 아이디 로그인 시
 
-![화면 기록 2024-12-07 오전 12 39 49](https://github.com/user-attachments/assets/a59a091c-9d12-429d-aeb2-9deaf8e4f049)
 
+![화면 기록 2024-12-07 오전 12 39 49](https://github.com/user-attachments/assets/ebc84464-ea63-4f1b-acc3-4b8e068c371b)
