@@ -16,10 +16,14 @@ YU-NotebookService : 영남대학교 노트북 대여 웹 서비스
   전체 대여 현황(대여된 노트북, 대여자의 정보)을 웹 사이트를 통해서 편하게 관리할 수 있습니다.
 
 ## 🧑‍🤝‍🧑Team
-- **Name** : 개발새발
-- **팀장** : 서호영
-- **Front-End** : 구준혁, 김주희, 이지형
-- **Back-End** : 서호영, 서효진, 이재홍
+
+| <img src="https://avatars.githubusercontent.com/yh392754" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/dnwndls411" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/cos65536" width="150" height="150"/> |
+|:-------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
+|                                             Leader / BE                                             |                                             BE                                              |                                             BE                                              |
+|           Hoyeong Seo<br/>[@yh392754](https://github.com/yh392754)         |                     Hyojin Seo<br/>[@dnwndls411](https://github.com/dnwndls411))                    |                  Jaehong Lee<br/>[@cos65536](https://github.com/cos65536)                   |
+| <img src="https://avatars.githubusercontent.com/gugitgugit" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/juiuj" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/groundinsider" width="150" height="150"/>     |
+|                                             FE                                              |                                           FE                                            |                                           FE                                           |
+|                      Junhyeok Koo<br/>[@gugitgugit](https://github.com/gugitgugit)                      |                     Joohee Kim<br/>[@juiuj](https://github.com/juiuj)                                             |             Jihyeong Lee<br/>[@groundinsider](https://github.com/groundinsider)                                            |
 
 ### 🛠️Tech Stack
 - **Frontend**: <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
